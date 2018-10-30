@@ -3,10 +3,12 @@
 
 ### Name: Dalin Younis
 --
-*_Week-1:_
 
-     [Introduction toGit and Github](https://github.com/DalinYounis/Udemy-Git)
+    * __ Week-1:__
+[Introduction to Git and Github]("https://github.com/DalinYounis/Udemy-Git")
 
-*_Week-2:_
+    * __ Week-2: __
+ Creating Markdown file
 
-    Creating Markdown File
+    * __ Week-3: __
+Introduction to python: Numbers and string     
